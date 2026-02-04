@@ -9,6 +9,7 @@ export default createMiddleware({
 });
  
 export const config = {
-  // Match only internationalized pathnames
-  matcher: ['/', '/(ur|en)/:path*']
+  // Fix: This regex catches ALL paths (except api, _next, and files with extensions)
+  // This ensures /login automatically redirects to /en/login
+  matcher: ['/((?!api|_next|.*\\..*).*)']
 };
