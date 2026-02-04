@@ -11,4 +11,4 @@ export default createMiddleware({
 export const config = {
   // Match only internationalized pathnames
   matcher: ['/', '/(ur|en)/:path*']
-};git add .
+};
