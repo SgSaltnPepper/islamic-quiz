@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "question": "Which Prophet is known as 'Khalilullah' (The Friend of Allah)?",
+      "options": ["Prophet Musa (AS)", "Prophet Ibrahim (AS)", "Prophet Isa (AS)", "Prophet Nuh (AS)"],
+      "correctAnswer": "Prophet Ibrahim (AS)",
+      "explanation": "Prophet Ibrahim (AS) was given the title Khalilullah because of his deep devotion to Allah."
+    },
+    {
+      "id": 2,
+      "question": "In which month was the Holy Quran first revealed?",
+      "options": ["Muharram", "Rajab", "Ramadan", "Dhul-Hijjah"],
+      "correctAnswer": "Ramadan",
+      "explanation": "The Quran was revealed in the month of Ramadan during the Night of Power (Laylat al-Qadr)."
+    }
+  ]
